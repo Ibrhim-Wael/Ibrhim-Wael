@@ -1,5 +1,6 @@
-## Hello Hi There Its Ibrahim!🤗
-**🌟 I have a mind full ideas so excited to share it here with you**
+## Hello Hi There It's Ibrahim!🤗
+**🌟 I have a mind full ideas so excited to share it here with you**.
+
 -⚡I'm currently studying *Electrical Engineering*.
 -🏅I'm A student at *Benha University*
 -🌱I'm learning: Design,Computer Systems,Coding.
