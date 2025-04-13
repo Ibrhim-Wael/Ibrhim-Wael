@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hello Hi There Its Ibrahim!🤗
+**🌟 I have a mind full ideas so excited to share it here with you**
+-⚡I'm currently studying *Electrical Engineering*.
+-🏅I'm A student at *Benha University*
+-🌱I'm learning: Design,Computer Systems,Coding.
 <!--
 **Ibrhim-Wael/Ibrhim-Wael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
