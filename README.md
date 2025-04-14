@@ -1,9 +1,9 @@
 ## Hello Hi There It's Ibrahim!🤗
 **🌟 I have a mind full of ideas that i'm so excited to share here with you**.
 
--⚡I'm currently studying *Electrical Engineering*.
--🏅I'm A student at *Benha University*.
--🌱I'm learning: Design,Computer Systems,Coding.
+1. ⚡I'm currently studying *Electrical Engineering*.
+2. 🏅I'm A student at *Benha University*.
+3. 🌱I'm learning: Design,Computer Systems,Coding.
 
 <!--
 **Ibrhim-Wael/Ibrhim-Wael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
